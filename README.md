@@ -5,7 +5,7 @@
 ## Project Members: 
 - Ekram Feras
 - Rehab 
-- Fadyah
+- Fadyah Alshaarani
 - Afnan
 - Nouf
 
