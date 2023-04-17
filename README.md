@@ -2,6 +2,8 @@
 
 ## Project Idea:
 
+an application that suggests recipes based on the available ingredients  
+
 ## Project Members: 
 - Ekram Feras
 - Rehab 
